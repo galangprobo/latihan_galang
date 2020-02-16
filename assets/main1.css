@@ -1,0 +1,129 @@
+/* global css */
+.col-item img {
+    height: 65vh;
+    min-height: 220px;
+    max-height: 220px;
+    width: 100%;
+    object-fit: cover;
+}
+
+.row {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+/* batasan luar */
+.container {
+    max-width: 1020px;
+    margin: 20px auto;
+}
+
+/* kolom */
+.col {
+    width: 33.333%;
+    padding: 5px;
+    box-sizing: border-box;
+}
+
+/* kolom kedua */
+.col-banner {
+    width: 66.66%;
+}
+
+.col-50 {
+    width: 50%;
+}
+
+.container {
+    width: 1020px;
+    margin: 20px auto;
+}
+
+.row {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.col {
+    width: 33.33%;
+    padding: 5px;
+}
+
+.col-item {
+}
+
+img {
+    width: 100%;
+}
+
+.container {
+    width: 1020px;
+    margin: 20px auto;
+}
+
+.row {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.col {
+    width: 33.33%;
+    padding: 5px;
+    box-sizing: border-box;
+}
+
+.col-item {
+}
+
+img {
+    width: 100%;
+}
+
+.col-banner img {
+    height: 65vh;
+    max-height: 220px;
+    min-height: 220px;
+    object-fit: cover;
+}
+
+.col-banner {
+    width: 66.66%;
+}
+
+.container {
+    width: 1020px;
+    margin: 20px auto;
+}
+
+.row {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.col {
+    width: 33.33%;
+    padding: 5px;
+    box-sizing: border-box;
+}
+
+.col-item {
+}
+
+img {
+    width: 100%;
+}
+
+.col-banner img {
+    height: 65vh;
+    max-height: 220px;
+    min-height: 220px;
+    object-fit: cover;
+}
+
+.col-banner {
+    width: 66.66%;
+}
+
+.col-50 {
+    width: 50%;
+}
